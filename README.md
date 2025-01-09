@@ -59,7 +59,7 @@ The dataset consists of 13 variables, each representing clinical features and de
 - **Task 16**: Perform Stratified K-Fold Cross-Validation to ensure class balance during cross-validation.
 
 ![image alt](https://github.com/irfanulkabirhira/Predicting-Heart-Failure-Outcomes-Using-Machine-Learning/blob/17098af86dce43d0d7aa3ab76117070cfdc4bbf3/Task%205%20-1.png)
-![image alt]()
+![image alt](https://github.com/irfanulkabirhira/Predicting-Heart-Failure-Outcomes-Using-Machine-Learning/blob/9e7041623092ac67faf7c8537af4bf642d8d51c9/Task%205-2.png)
 
 ### 6. Model Improvement
 - **Task 17**: Use Grid Search or Randomized Search to tune the hyperparameters of the KNN and Decision Tree models.
