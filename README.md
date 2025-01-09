@@ -58,7 +58,8 @@ The dataset consists of 13 variables, each representing clinical features and de
 - **Task 15**: Perform K-Fold Cross-Validation (with 5 folds) on the Logistic Regression model to evaluate its performance.
 - **Task 16**: Perform Stratified K-Fold Cross-Validation to ensure class balance during cross-validation.
 
-![image alt]( )
+![image alt](https://github.com/irfanulkabirhira/Predicting-Heart-Failure-Outcomes-Using-Machine-Learning/blob/17098af86dce43d0d7aa3ab76117070cfdc4bbf3/Task%205%20-1.png)
+![image alt]()
 
 ### 6. Model Improvement
 - **Task 17**: Use Grid Search or Randomized Search to tune the hyperparameters of the KNN and Decision Tree models.
