@@ -76,4 +76,4 @@ The dataset consists of 13 variables, each representing clinical features and de
 ![image alt](https://github.com/irfanulkabirhira/Predicting-Heart-Failure-Outcomes-Using-Machine-Learning/blob/2470a6403a5b037fd9786539ba9241db3d522d1c/Task%207-3.png)
 
 ![image alt](https://github.com/irfanulkabirhira/Predicting-Heart-Failure-Outcomes-Using-Machine-Learning/blob/f1a1a0c16f521374cb51ff439bd2f7bbbeb53c21/Task%208.png)
-![image alt]()
+![image alt](https://github.com/irfanulkabirhira/Predicting-Heart-Failure-Outcomes-Using-Machine-Learning/blob/7000b3101ae479c01ff7074cf7171fc74866bcbf/task%2018.png)
