@@ -51,7 +51,7 @@ The dataset consists of 13 variables, each representing clinical features and de
 - **Task 13**: Train a K-Nearest Neighbors (KNN) model and evaluate its performance.
 - **Task 14**: Train a Decision Tree Classifier and compare its performance with other models.
 
- ![image alt]( )
+ ![image alt]( https://github.com/irfanulkabirhira/Predicting-Heart-Failure-Outcomes-Using-Machine-Learning/blob/a35a3cb8779056deefd2b5b71e2286cec7d0151a/Task%204.png)
 
 
 ### 5. Cross Validation
