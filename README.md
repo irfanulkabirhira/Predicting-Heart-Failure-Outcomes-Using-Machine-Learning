@@ -71,5 +71,6 @@ The dataset consists of 13 variables, each representing clinical features and de
 - **Task 19**: Summarize your findings and explain which model performed best and why. Consider which features were most important for predicting the death event.
 - **Task 20**: Suggest potential improvements or next steps for the analysis.
 
-![image alt]( )
-
+![image alt](https://github.com/irfanulkabirhira/Predicting-Heart-Failure-Outcomes-Using-Machine-Learning/blob/918b0df270045fed17503cb49b70c90fec96db42/Task%207-1.png )
+![image alt]()
+![image alt]()
