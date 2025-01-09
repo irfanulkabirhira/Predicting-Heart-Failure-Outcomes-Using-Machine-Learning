@@ -65,7 +65,7 @@ The dataset consists of 13 variables, each representing clinical features and de
 - **Task 17**: Use Grid Search or Randomized Search to tune the hyperparameters of the KNN and Decision Tree models.
 - **Task 18**: Plot the ROC curves and calculate the AUC for all models to compare their performance visually.
 
-![image alt]( )
+![image alt](https://github.com/irfanulkabirhira/Predicting-Heart-Failure-Outcomes-Using-Machine-Learning/blob/bb8067dc46af87e6fa30312ef11843c118e7120a/Task%206.png)
 
 ### 7. Conclusion
 - **Task 19**: Summarize your findings and explain which model performed best and why. Consider which features were most important for predicting the death event.
